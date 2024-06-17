@@ -1,6 +1,6 @@
 # Hi there, I'm Cristobal Almendra 👋
 
-Welcome to my GitHub profile! I'm Cristobal Almendra, currently in my 5th year pursuing a degree in Civil Industrial Engineering at Universidad Diego Portales 🇨🇱 .
+Welcome to my GitHub profile! I'm Cristobal Almendra, currently in my 5th year pursuing a degree in Civil Industrial Engineering at Universidad Diego Portales 🇨🇱
 
 ## 📚 About Me
 
@@ -38,11 +38,12 @@ When I'm not immersed in data and numbers, I enjoy:
 
 Feel free to reach out to me via:
 - Email: [cristobal.almendra_j@mail.udp.cl](mailto:cristobal.almendra_j@mail.udp.cl) | [cristobal.almendra02@gmail.com](mailto:cristobal.almendra02@gmail.com)
-- LinkedIn: [Cristobal Almendra](https://cl.linkedin.com/in/cristobalalmendra)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://cl.linkedin.com/in/cristobalalmendra)(
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristobal.alm)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/12147669198?si=d2b746bcf39640b7)
+[![Last.fm](https://img.shields.io/badge/Last.fm-D51007?logo=last.fm&logoColor=white)](https://www.last.fm/es/user/cristobal_alm)
 
 This GitHub space is a testament to my belief in the power of data-driven decision making. In today's world, understanding how things work, making informed decisions based on numbers, and delving into the mechanics of machines are crucial. I'm here to showcase my skills and collaborate with like-minded individuals who share a passion for data and innovation.
 
