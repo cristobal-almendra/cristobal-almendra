@@ -38,7 +38,7 @@ When I'm not immersed in data and numbers, I enjoy:
 
 Feel free to reach out to me via:
 - Email: [cristobal.almendra_j@mail.udp.cl](mailto:cristobal.almendra_j@mail.udp.cl) | [cristobal.almendra02@gmail.com](mailto:cristobal.almendra02@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://cl.linkedin.com/in/cristobalalmendra)(
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://cl.linkedin.com/in/cristobalalmendra)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristobal.alm)
