@@ -1,6 +1,6 @@
 # Hi there, I'm Cristobal Almendra 👋
 
-Welcome to my GitHub profile! I'm Cristobal Almendra, currently in my 5th year pursuing a degree in Civil Industrial Engineering at Universidad Diego Portales.
+Welcome to my GitHub profile! I'm Cristobal Almendra, currently in my 5th year pursuing a degree in Civil Industrial Engineering at Universidad Diego Portales 🇨🇱 .
 
 ## 📚 About Me
 
@@ -29,7 +29,7 @@ During my internship in the commercial area of SdB, I developed a market analysi
 
 When I'm not immersed in data and numbers, I enjoy:
 - Music
-- Sports, particularly NBA and football (soccer)
+- Sports, particularly NBA and football
 - Calisthenics
 - Video games
 - Vexillology
